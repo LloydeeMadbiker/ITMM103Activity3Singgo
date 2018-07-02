@@ -7,23 +7,23 @@
 	Name: Reginn Lloyd H. Singgo <br>
 	Course Title: Advanced Web Developing, Second Year 
 	<br>
-	<a href="Section A/index.html">Link Section A</a> 
+	<a href="Section A/index.php">Link Section A</a> 
 	<br>
-	<a href="Section B/index.html">Link Section B</a>
+	<a href="Section B/index.php">Link Section B</a>
 	<br>
-	<a href="Section C/index.html">Link Section C</a>
+	<a href="Section C/index.php">Link Section C</a>
 	<br>
-	<a href="Section D/index.html">Link Section D</a>
+	<a href="Section D/index.php">Link Section D</a>
 	<br>
-	<a href="Section E/index.html">Link Section E</a>
+	<a href="Section E/index.php">Link Section E</a>
 	<br>
-	<a href="Section F/index.html">Link Section F</a>
+	<a href="Section F/index.php">Link Section F</a>
 	<br>
-	<a href="Section G/index.html">Link Section G</a>
+	<a href="Section G/index.php">Link Section G</a>
 	<br>
-	<a href="Section H/index.html">Link Section H</a>
+	<a href="Section H/index.php">Link Section H</a>
 	<br>
-	<a href="Section I/index.html">Link Section I</a>
+	<a href="Section I/index.php">Link Section I</a>
 	<br>
 	
 
